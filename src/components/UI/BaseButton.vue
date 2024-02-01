@@ -1,9 +1,9 @@
 <template>
     <button 
-    :type="type"
-    :class="mode"
-    >
-    <slot></slot>
+        :type="type"
+        :class="mode"
+        >        
+        <slot></slot>
     </button>
 </template>
 
